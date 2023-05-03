@@ -1,0 +1,19 @@
+{
+  "name": "nodejsexample",
+  "version": "1.0.0",
+  "description": "Starter JS File",
+  "main": "index.js",
+  "scripts": {
+    "test": "Hello World"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrianPayne98/It_DevOps.git"
+  },
+  "author": "Brian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrianPayne98/It_DevOps/issues"
+  },
+  "homepage": "https://github.com/BrianPayne98/It_DevOps#readme"
+}
