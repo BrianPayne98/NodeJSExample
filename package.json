@@ -1,19 +1,19 @@
 {
   "name": "nodejsexample",
   "version": "1.0.0",
-  "description": "Starter JS File",
+  "description": "NodeJSExample",
   "main": "index.js",
   "scripts": {
-    "test": "Hello World"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BrianPayne98/It_DevOps.git"
+    "url": "git+https://github.com/BrianPayne98/NodeJSExample.git"
   },
-  "author": "Brian",
+  "author": "Brian Payne",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/BrianPayne98/It_DevOps/issues"
+    "url": "https://github.com/BrianPayne98/NodeJSExample/issues"
   },
-  "homepage": "https://github.com/BrianPayne98/It_DevOps#readme"
+  "homepage": "https://github.com/BrianPayne98/NodeJSExample#readme"
 }
